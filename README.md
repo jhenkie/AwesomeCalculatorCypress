@@ -52,3 +52,37 @@ Running code from unknown sources always caries some risk. Luckily, this code is
 ## License
 
 The source code for this project is released under the [MIT License](https://mit-license.org/).
+
+## How to run test
+
+Navigate to **testcypress** folder and choose one of below commands
+```
+npm run cy:open
+
+```
+```
+npm run cy:run:chrome
+
+```
+```
+npm run cy:run:firefox
+
+```
+```
+npm run cy:run-dashboard
+
+```
+```
+npm run cy:run:cucumber
+
+```
+
+```
+npm run cy:run:dockerinclude
+
+```
+
+```
+npm run cy:run:dockerbase
+
+```
