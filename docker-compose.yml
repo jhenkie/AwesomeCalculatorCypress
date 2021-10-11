@@ -28,6 +28,16 @@ services:
     networks:
       - private
 
+
+  # cypress:
+  #   build:
+  #     context: .
+  #     dockerfile: src/ikea_web_cypress/Dockerfile
+  #   ports:
+  #     - 8081:8080
+  #   networks:
+  #     - public
+
 networks:
   private:
     internal: true

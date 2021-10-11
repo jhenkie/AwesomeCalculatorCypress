@@ -1,1 +1,5 @@
 /src/frontend/node_modules
+/src/testcypress/node_modules
+/src/testcypress/cypress/screenshots
+/src/testcypress/cypress/videos
+/src/testcypress/mochawesome-report

@@ -1,0 +1,5 @@
+#!/bin/sh
+
+cd src/testcypress/
+npm install
+npm run cy:run-dashboard

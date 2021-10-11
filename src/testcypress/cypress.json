@@ -1,0 +1,16 @@
+{
+    "video": false,
+    "watchForFileChanges": false,
+    "defaultCommandTimeout":5000,
+    "pageLoadTimeout": 10000,
+    "ignoreTestFile": ["*.js", "*.md"],
+    "testFiles": "**/*.feature",
+    "projectId": "kk13k9",
+    "reporter": "mochawesome",
+    "reporterOptions": {
+        "overwrite": false,
+        "charts": true,
+        "reportPageTitle": "Ikea Test Report",
+        "json": true
+    }
+}
